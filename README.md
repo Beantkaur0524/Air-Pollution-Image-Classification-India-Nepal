@@ -1,6 +1,6 @@
 # 🌍 Air-Pollution-Image-Classification-India-Nepal
 # 📌 Project Overview
-This project focuses on air pollution classification using image-based datasets from India and Nepal. The main objective is to classify air quality levels using deep learning models. The dataset is collected from Kaggle and processed using Python and deep learning techniques.
+This project focuses on air pollution classification using image-based datasets from India and Nepal. The main objective is to classify air quality levels using deep learning models. The dataset is collected from Kaggle and processed using Python and deep learning techniques. <br>
 The project includes data preprocessing, exploratory data analysis, image processing, and implementation of multiple deep learning architectures such as CNN, AlexNet, GoogLeNet, and ResNet50.
 
 # 🎯 Objectives
@@ -28,7 +28,7 @@ The project includes data preprocessing, exploratory data analysis, image proces
 * Convolutional Neural Network (CNN)
 * AlexNet
 * GoogLeNet (Inception Network)
-* ResNet50
+* ResNet50 <br>
 These models were used for multi-class classification of air pollution levels.
 
 # 🔍 Key Outcomes
