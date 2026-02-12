@@ -35,4 +35,7 @@ These models were used for multi-class classification of air pollution levels.
 * Successfully classified air pollution levels using image data.
 * Implemented and compared CNN, AlexNet, GoogLeNet, and ResNet50.
 * Analyzed AQI class distribution across India and Nepal datasets.
+
+# 📸 Project Demo
+![Air Pollution detection](Demo_Project.png)
   
